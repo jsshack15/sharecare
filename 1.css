@@ -61,9 +61,12 @@ audio:not([controls]) {
  */
 
 html {
-    font-family: sans-serif; /* 1 */
+    font-family:"Comic Sans MS",cursive,sans-serif; /* 1 */
     -webkit-text-size-adjust: 100%; /* 2 */
-    -ms-text-size-adjust: 100%; /* 2 */
+    -ms-text-size-adjust: 100%;
+     background: url(C:\Users\HP\Desktop\SC\tumblr_static_aq2a7harpao8cwg0ok0c0sko8.jpg);
+     background-size: cover;
+                 /* 2 */
 }
 
 /*
@@ -118,7 +121,7 @@ dfn {
  */
 
 mark {
-    background: #ff0;
+    background img:url("C:\Users\HP\Desktop\SC\tumblr_static_aq2a7harpao8cwg0ok0c0sko8.jpg";
     color: #000;
 }
 
